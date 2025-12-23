@@ -300,83 +300,83 @@ var simplemaps_usmap_mapdata={
   locations: {
     "0": {
       name: "1st Due Fire Training",
-      lat: "35.0078",
-      lng: "97.0929"
+      lat: 35.506,
+      lng: -97.738
     },
     "1": {
       name: "Bearers of the Oath",
-      lat: "32.1574",
-      lng: "-82.9071"
+      lat: 34.58,
+      lng: -83.333
     },
     "2": {
       name: "Big Fire, Big Water",
-      lng: "-82",
-      lat: "28.5"
+      lat: 32.213,
+      lng: -96.076
     },
     "3": {
       name: "Build your Culture",
-      lat: "43",
-      lng: "-84.5"
+      lat: 42.537,
+      lng: -83.147
     },
     "4": {
       name: "Down and Dirty Training",
-      lat: "35",
-      lng: "-79.0193"
+      lat: 34.816,
+      lng: -79.182
     },
     "5": {
       name: "FIRECORE Training",
-      lat: "27",
-      lng: "-82"
+      lat: 28.227,
+      lng: -82.458
     },
     "6": {
       name: "Firefighter TDC",
-      lat: "43.7844",
-      lng: "-88.7879"
+      lat: 44.524,
+      lng: -89.575
     },
     "7": {
       name: "Flow and Vent",
-      lat: "40.0583",
-      lng: "-74.4057"
+      lat: 41.011,
+      lng: -74.12
     },
     "8": {
       name: "Love the Job Training",
-      lat: "40.5",
-      lng: "-78"
+      lat: 41.018,
+      lng: -75.995
     },
     "9": {
       name: "Misfits Training Foundation",
-      lat: "39",
-      lng: "-86.5"
+      lat: 39.843,
+      lng: -86.398
     },
     "10": {
       name: "On Scene Training Association",
-      lat: "41",
-      lng: -74.759
+      lat: 40.036,
+      lng: -74.624
     },
     "11": {
       name: "Tactical Resource Fire Training, LLC",
-      lat: "41.6032",
-      lng: "-73.0877"
+      lat: 41.413,
+      lng: -73.309
     },
     "12": {
       name: "The Citizens Fireman",
-      lat: "35.5175",
-      lng: "-86.5804"
+      lat: 35.441,
+      lng: -84.592
     },
     "13": {
       name: "The Grab Factory",
-      lat: "25.6648",
-      lng: "-81.2"
+      lat: 27.947,
+      lng: -82.459
     },
     "14": {
       name: "Triad Rescue International",
-      lat: "31.",
-      lng: "-98.5"
+      lat: 30.051,
+      lng: -95.18
     },
-    "15": {
-      name: "Big Fire, Big Water",
-      lat: "33.84°",
-      lng: "-81.16°"
+    "16": {
+      name: "Twin City Fire Tactics",
+      lat: 39.649,
+      lng: -81.854
     }
   },
   labels: {
