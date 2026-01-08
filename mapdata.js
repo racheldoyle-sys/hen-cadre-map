@@ -373,7 +373,7 @@ var simplemaps_usmap_mapdata={
       lat: 30.051,
       lng: -95.18
     },
-    "16": {
+    "15": {
       name: "Twin City Fire Tactics",
       lat: 39.649,
       lng: -81.854
