@@ -377,6 +377,26 @@ var simplemaps_usmap_mapdata={
       name: "Twin City Fire Tactics",
       lat: 39.649,
       lng: -81.854
+    },
+    "16": {
+      name: "Love the Job Training",
+      lat: 41.031,
+      lng: -76.008
+    },
+    "17": {
+      name: "Southern Arizona Misfits",
+      lat: 31.949,
+      lng: -110.785
+    },
+    "18": {
+      name: "Tri-State Fire Training",
+      lat: 41.361,
+      lng: -74.275
+    },
+    "19": {
+      name: "Superior Emergency Training, LLC",
+      lat: 40.164,
+      lng: -74.206
     }
   },
   labels: {
