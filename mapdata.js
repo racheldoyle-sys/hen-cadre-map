@@ -378,11 +378,6 @@ var simplemaps_usmap_mapdata={
       lat: 39.649,
       lng: -81.854
     },
-    "16": {
-      name: "Love the Job Training",
-      lat: 41.031,
-      lng: -76.008
-    },
     "17": {
       name: "Southern Arizona Misfits",
       lat: 31.949,
