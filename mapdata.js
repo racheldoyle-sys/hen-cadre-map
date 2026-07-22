@@ -359,9 +359,9 @@ var simplemaps_usmap_mapdata={
       lng: -73.309
     },
     "12": {
-      name: "The Citizens Fireman",
-      lat: 35.441,
-      lng: -84.592
+      name: "Elgin Community College",
+      lat: 42.055,
+      lng: -88.389
     },
     "13": {
       name: "The Grab Factory",
@@ -369,14 +369,19 @@ var simplemaps_usmap_mapdata={
       lng: -82.459
     },
     "14": {
-      name: "Triad Rescue International",
-      lat: 30.051,
-      lng: -95.18
+      name: "True Grit Fire Training",
+      lat: 39.947,
+      lng: -104.953
     },
     "15": {
       name: "Twin City Fire Tactics",
       lat: 39.649,
       lng: -81.854
+    },
+    "16": {
+      name: "Ethos of Fire",
+      lat: 36,
+      lng: -83.756
     },
     "17": {
       name: "Southern Arizona Misfits",
@@ -392,6 +397,16 @@ var simplemaps_usmap_mapdata={
       name: "Superior Emergency Training, LLC",
       lat: 40.164,
       lng: -74.206
+    },
+    "20": {
+      name: "Fire LLC",
+      lat: 44.371,
+      lng: -88.344
+    },
+    "21": {
+      name: "Next Level Training Network",
+      lat: 39.396,
+      lng: -104.828
     }
   },
   labels: {
