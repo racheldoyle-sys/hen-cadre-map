@@ -358,11 +358,6 @@ var simplemaps_usmap_mapdata={
       lat: 41.413,
       lng: -73.309
     },
-    "12": {
-      name: "Elgin Community College",
-      lat: 42.055,
-      lng: -88.389
-    },
     "13": {
       name: "The Grab Factory",
       lat: 27.947,
@@ -407,6 +402,11 @@ var simplemaps_usmap_mapdata={
       name: "Next Level Training Network",
       lat: 39.396,
       lng: -104.828
+    },
+    "22": {
+      lat: 29.761,
+      lng: -95.37,
+      name: "Third Alarm Cowboys"
     }
   },
   labels: {
