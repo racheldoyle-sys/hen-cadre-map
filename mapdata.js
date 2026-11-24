@@ -308,11 +308,6 @@ var simplemaps_usmap_mapdata={
       lat: 34.58,
       lng: -83.333
     },
-    "2": {
-      name: "Big Fire, Big Water",
-      lat: "32.2163",
-      lng: "-80.7526"
-    },
     "3": {
       name: "Build your Culture",
       lat: 42.537,
